@@ -1,0 +1,133 @@
+@media only screen  and (max-width:480px){ /*Para cel, todo esto lo definen los pixeles */
+
+	.red{
+		display: none;
+	}
+
+
+	.columnasx3{
+		width: 100%;
+	}
+
+
+
+	.tablax4, .tablaxd{
+		width: 100%;
+	}
+
+
+
+
+/* FORMULARIO */
+
+
+.formulario h4{
+	margin-left: 20px;
+}
+
+.dos-columnas{
+	margin-top: 50px;
+	margin-left: 0;
+}
+
+.formulario{
+	float: left;
+	width: 100%;
+	margin: auto;
+	color: #999;
+
+}
+
+.caja-1{
+	width: 350px;
+	height: 40px;
+	margin: 20px;
+	padding: 10px;
+	font-size: 14px;
+}
+
+.caja-2{
+	width: 350px;
+	height: 100px;
+	margin: 20px;
+	padding: 10px
+	font-size:14px;
+}
+
+
+.correr{
+	margin: 20px;
+	padding: 10px;
+	width: 350px;
+}
+
+
+	
+} 
+
+
+
+
+@media only screen and (min-width:481) and (max-width: 768px){/*Para tablet, todo esto lo definen los piexeles*/
+.red{
+		display: none;
+	}
+	
+	.columnasx3{
+		width: 100%;
+	}
+
+
+
+	.tablax4, .tablaxd{
+		width: 100%;
+	}
+
+	/* FORMULARIO */
+
+
+.formulario h4{
+	margin-left: 20px;
+}
+
+.dos-columnas{
+	margin-top: 50px;
+	margin-left: 0;
+}
+
+.formulario{
+	float: left;
+	width: 100%;
+	margin: auto;
+	color: #999;
+
+}
+
+.caja-1{
+	width: 350px;
+	height: 40px;
+	margin: 20px;
+	padding: 10px;
+	font-size: 14px;
+}
+
+.caja-2{
+	width: 350px;
+	height: 100px;
+	margin: 20px;
+	padding: 10px
+	font-size:14px;
+}
+
+
+.correr{
+	margin: 20px;
+	padding: 10px;
+	width: 350px;
+}
+
+
+	
+} 
+
+}

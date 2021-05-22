@@ -1,0 +1,40 @@
+
+.formulario h4{
+	margin: auto;
+	text-align: center;
+}
+
+.dos-columnas{
+	margin-top: 50px;
+	margin-left: 25%;
+}
+
+.formulario{
+	float: left;
+	width: 50%;
+	/*margin-top: auto;*/
+	color: #999;
+
+}
+
+.caja-1{
+	width: 545px;
+	height: 40px;
+	margin: 20px;
+	padding: 10px;
+	font-size: 14px;
+}
+
+.caja-2{
+	width: 545px;
+	height: 100px;
+	margin: 20px;
+	padding: 10px
+	font-size:14px;
+}
+
+.correr{
+	margin: 20px;
+	padding: 10px;
+	width: 550px;
+}
